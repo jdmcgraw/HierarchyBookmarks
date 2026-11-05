@@ -36,9 +36,10 @@ Unity treats anything in `Packages/` as an embedded package, so no `manifest.jso
 ## Layout
 
 ```
-package.json                 UPM manifest
+package.json                                  UPM manifest
 Editor/
-  HierarchyBookmarks.cs      the whole tool (editor-only: lives under an `Editor` folder)
+  HierarchyBookmarks.cs                       the whole tool
+  JdmcGraw.HierarchyBookmarks.Editor.asmdef   editor-only assembly definition
 ```
 
 Every file and folder has a committed `.meta`. Keep it that way: Unity ignores files without a `.meta` inside packages installed from git, and a stable GUID keeps the script's identity the same in every project.
