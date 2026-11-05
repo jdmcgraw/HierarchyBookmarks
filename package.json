@@ -4,6 +4,7 @@
   "displayName": "Hierarchy Bookmarks",
   "description": "Editor tool for bookmarking GameObjects per scene. Toggle bookmarks with Alt+Click in the Hierarchy or from the GameObject menu, and manage them in a dedicated window.",
   "unity": "2021.3",
+  "documentationUrl": "https://github.com/jdmcgraw/HierarchyBookmarks#readme",
   "keywords": [
     "hierarchy",
     "bookmarks",
