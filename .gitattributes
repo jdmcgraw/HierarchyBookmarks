@@ -1,0 +1,2 @@
+# Normalise line endings in the repo so Windows and macOS checkouts don't churn.
+* text=auto

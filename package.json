@@ -1,0 +1,16 @@
+{
+  "name": "com.jdmcgraw.hierarchybookmarks",
+  "version": "0.1.0",
+  "displayName": "Hierarchy Bookmarks",
+  "description": "Editor tool for bookmarking GameObjects per scene. Toggle bookmarks with Alt+Click in the Hierarchy or from the GameObject menu, and manage them in a dedicated window.",
+  "unity": "2021.3",
+  "keywords": [
+    "hierarchy",
+    "bookmarks",
+    "editor",
+    "workflow"
+  ],
+  "author": {
+    "name": "joshua.mcgraw"
+  }
+}
